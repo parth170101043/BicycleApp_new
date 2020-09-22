@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">BicycleApp</string>
+    <string name="trak">TRACK</string>
+    <string name="hist">HISTORY</string>
+    <string name="title_activity_cycle__map">Map</string>
+</resources>
